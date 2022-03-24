@@ -3,4 +3,4 @@ Installing and setting up the Integrated Development Environment (IDE). Installi
 to write and execute java code.
 
 ----
-#### END OF SECTION #1
+#### END OF SECTION #2
